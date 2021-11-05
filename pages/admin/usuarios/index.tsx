@@ -8,6 +8,9 @@ const index = () => {
            <Link href='/'>
             <a className ="cursor-pointer">Ir al la Pagina de Home</a>
            </Link>
+           <div>
+      <i className="fas fa-home"></i>
+      </div>
         </div>
     )
 }
